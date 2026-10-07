@@ -20,7 +20,7 @@ Fill in every field below before your first commit. This file is how instructors
 
 Write 2–3 sentences describing what you specifically want to be able to do by the end of the 8 weeks.
 
-> To grasp the entire idea and attain essential skills in AI Automation and Robotics
+> To grasp the entire idea and attain essential skillsss in AI Automation and Robotics
 
 ---
 
